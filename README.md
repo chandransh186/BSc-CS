@@ -15,4 +15,4 @@ To run the programs in this repository:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/chandransh186/C-Programming-Exercises.git
+   git clone https://github.com/chandransh186/BSc-CS.git
